@@ -1,0 +1,46 @@
+
+.logo{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.logo img{
+    width: 4rem;
+    margin: 1rem;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    background-color: #2f5fe2;
+    height: 4.5rem;
+}
+
+.navigation-menu{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-bottom: 0px;
+    color: aliceblue;
+}
+
+.navigation-menu-item{
+    list-style: none;
+    margin: auto 1rem;
+}
+
+
+.nav-btn{
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    height: 100%;
+    width: 20rem;
+}
+
+.btn{
+    margin:auto 2rem auto auto;
+    width: 6rem;
+}
+
