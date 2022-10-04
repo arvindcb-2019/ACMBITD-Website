@@ -5,13 +5,10 @@ footer{
 
 footer div{
     text-align: center;
-    font-family: 'Noto Sans Mono', monospace;
-    font-size: 1.3rem;
-    color: white;
 }
 
 footer div i{
-    margin:1rem;
+    margin:0.8rem;
     font-size: 1.2rem;
 }
 
