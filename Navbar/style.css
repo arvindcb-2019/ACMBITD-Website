@@ -12,6 +12,7 @@
 
 nav{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     background-color: #2f5fe2;
     height: 4.5rem;
